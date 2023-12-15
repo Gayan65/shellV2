@@ -1,0 +1,90 @@
+D:\Learn\SEM_TWO\Operating Systems\AS1\Shell\bin\Debug\net6.0\Shell.exe
+D:\Learn\SEM_TWO\Operating Systems\AS1\Shell\bin\Debug\net6.0\Shell.deps.json
+D:\Learn\SEM_TWO\Operating Systems\AS1\Shell\bin\Debug\net6.0\Shell.runtimeconfig.json
+D:\Learn\SEM_TWO\Operating Systems\AS1\Shell\bin\Debug\net6.0\Shell.dll
+D:\Learn\SEM_TWO\Operating Systems\AS1\Shell\bin\Debug\net6.0\Shell.pdb
+D:\Learn\SEM_TWO\Operating Systems\AS1\Shell\obj\Debug\net6.0\Shell.csproj.AssemblyReference.cache
+D:\Learn\SEM_TWO\Operating Systems\AS1\Shell\obj\Debug\net6.0\Shell.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\SEM_TWO\Operating Systems\AS1\Shell\obj\Debug\net6.0\Shell.AssemblyInfoInputs.cache
+D:\Learn\SEM_TWO\Operating Systems\AS1\Shell\obj\Debug\net6.0\Shell.AssemblyInfo.cs
+D:\Learn\SEM_TWO\Operating Systems\AS1\Shell\obj\Debug\net6.0\Shell.csproj.CoreCompileInputs.cache
+D:\Learn\SEM_TWO\Operating Systems\AS1\Shell\obj\Debug\net6.0\Shell.dll
+D:\Learn\SEM_TWO\Operating Systems\AS1\Shell\obj\Debug\net6.0\refint\Shell.dll
+D:\Learn\SEM_TWO\Operating Systems\AS1\Shell\obj\Debug\net6.0\Shell.pdb
+D:\Learn\SEM_TWO\Operating Systems\AS1\Shell\obj\Debug\net6.0\Shell.genruntimeconfig.cache
+D:\Learn\SEM_TWO\Operating Systems\AS1\Shell\obj\Debug\net6.0\ref\Shell.dll
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT1\Shell\bin\Debug\net6.0\Shell.exe
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT1\Shell\bin\Debug\net6.0\Shell.deps.json
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT1\Shell\bin\Debug\net6.0\Shell.runtimeconfig.json
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT1\Shell\bin\Debug\net6.0\Shell.dll
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT1\Shell\bin\Debug\net6.0\Shell.pdb
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT1\Shell\obj\Debug\net6.0\Shell.csproj.AssemblyReference.cache
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT1\Shell\obj\Debug\net6.0\Shell.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT1\Shell\obj\Debug\net6.0\Shell.AssemblyInfoInputs.cache
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT1\Shell\obj\Debug\net6.0\Shell.AssemblyInfo.cs
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT1\Shell\obj\Debug\net6.0\Shell.csproj.CoreCompileInputs.cache
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT1\Shell\obj\Debug\net6.0\Shell.dll
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT1\Shell\obj\Debug\net6.0\refint\Shell.dll
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT1\Shell\obj\Debug\net6.0\Shell.pdb
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT1\Shell\obj\Debug\net6.0\Shell.genruntimeconfig.cache
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT1\Shell\obj\Debug\net6.0\ref\Shell.dll
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT1\New folder\Shell\bin\Debug\net6.0\Shell.exe
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT1\New folder\Shell\bin\Debug\net6.0\Shell.deps.json
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT1\New folder\Shell\bin\Debug\net6.0\Shell.runtimeconfig.json
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT1\New folder\Shell\bin\Debug\net6.0\Shell.dll
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT1\New folder\Shell\bin\Debug\net6.0\Shell.pdb
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT1\New folder\Shell\obj\Debug\net6.0\Shell.csproj.AssemblyReference.cache
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT1\New folder\Shell\obj\Debug\net6.0\Shell.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT1\New folder\Shell\obj\Debug\net6.0\Shell.AssemblyInfoInputs.cache
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT1\New folder\Shell\obj\Debug\net6.0\Shell.AssemblyInfo.cs
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT1\New folder\Shell\obj\Debug\net6.0\Shell.csproj.CoreCompileInputs.cache
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT1\New folder\Shell\obj\Debug\net6.0\Shell.dll
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT1\New folder\Shell\obj\Debug\net6.0\refint\Shell.dll
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT1\New folder\Shell\obj\Debug\net6.0\Shell.pdb
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT1\New folder\Shell\obj\Debug\net6.0\Shell.genruntimeconfig.cache
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT1\New folder\Shell\obj\Debug\net6.0\ref\Shell.dll
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT1\final done\Shell\bin\Debug\net6.0\Shell.exe
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT1\final done\Shell\bin\Debug\net6.0\Shell.deps.json
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT1\final done\Shell\bin\Debug\net6.0\Shell.runtimeconfig.json
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT1\final done\Shell\bin\Debug\net6.0\Shell.dll
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT1\final done\Shell\bin\Debug\net6.0\Shell.pdb
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT1\final done\Shell\obj\Debug\net6.0\Shell.csproj.AssemblyReference.cache
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT1\final done\Shell\obj\Debug\net6.0\Shell.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT1\final done\Shell\obj\Debug\net6.0\Shell.AssemblyInfoInputs.cache
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT1\final done\Shell\obj\Debug\net6.0\Shell.AssemblyInfo.cs
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT1\final done\Shell\obj\Debug\net6.0\Shell.csproj.CoreCompileInputs.cache
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT1\final done\Shell\obj\Debug\net6.0\Shell.dll
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT1\final done\Shell\obj\Debug\net6.0\refint\Shell.dll
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT1\final done\Shell\obj\Debug\net6.0\Shell.pdb
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT1\final done\Shell\obj\Debug\net6.0\Shell.genruntimeconfig.cache
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT1\final done\Shell\obj\Debug\net6.0\ref\Shell.dll
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT2\Shell\bin\Debug\net6.0\Shell.exe
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT2\Shell\bin\Debug\net6.0\Shell.deps.json
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT2\Shell\bin\Debug\net6.0\Shell.runtimeconfig.json
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT2\Shell\bin\Debug\net6.0\Shell.dll
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT2\Shell\bin\Debug\net6.0\Shell.pdb
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT2\Shell\obj\Debug\net6.0\Shell.csproj.AssemblyReference.cache
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT2\Shell\obj\Debug\net6.0\Shell.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT2\Shell\obj\Debug\net6.0\Shell.AssemblyInfoInputs.cache
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT2\Shell\obj\Debug\net6.0\Shell.AssemblyInfo.cs
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT2\Shell\obj\Debug\net6.0\Shell.csproj.CoreCompileInputs.cache
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT2\Shell\obj\Debug\net6.0\Shell.dll
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT2\Shell\obj\Debug\net6.0\refint\Shell.dll
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT2\Shell\obj\Debug\net6.0\Shell.pdb
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT2\Shell\obj\Debug\net6.0\Shell.genruntimeconfig.cache
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT2\Shell\obj\Debug\net6.0\ref\Shell.dll
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT2\submit this\Shell\bin\Debug\net6.0\Shell.exe
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT2\submit this\Shell\bin\Debug\net6.0\Shell.deps.json
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT2\submit this\Shell\bin\Debug\net6.0\Shell.runtimeconfig.json
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT2\submit this\Shell\bin\Debug\net6.0\Shell.dll
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT2\submit this\Shell\bin\Debug\net6.0\Shell.pdb
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT2\submit this\Shell\obj\Debug\net6.0\Shell.csproj.AssemblyReference.cache
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT2\submit this\Shell\obj\Debug\net6.0\Shell.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT2\submit this\Shell\obj\Debug\net6.0\Shell.AssemblyInfoInputs.cache
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT2\submit this\Shell\obj\Debug\net6.0\Shell.AssemblyInfo.cs
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT2\submit this\Shell\obj\Debug\net6.0\Shell.csproj.CoreCompileInputs.cache
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT2\submit this\Shell\obj\Debug\net6.0\Shell.dll
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT2\submit this\Shell\obj\Debug\net6.0\refint\Shell.dll
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT2\submit this\Shell\obj\Debug\net6.0\Shell.pdb
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT2\submit this\Shell\obj\Debug\net6.0\Shell.genruntimeconfig.cache
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT2\submit this\Shell\obj\Debug\net6.0\ref\Shell.dll
